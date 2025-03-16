@@ -1,6 +1,6 @@
 function minDate(dates) {
   //write you code here
-	return minDate(dates);
+	return dates.sort()[0];
 }
 
 // Do not change the code
